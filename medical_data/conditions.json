@@ -1,0 +1,15 @@
+{
+  "migraine": {
+    "description": "Severe, recurring headache with additional symptoms",
+    "common_symptoms": [
+      "throbbing pain",
+      "nausea",
+      "light sensitivity"
+    ],
+    "common_treatments": [
+      "sumatriptan",
+      "preventive medications"
+    ],
+    "when_to_see_doctor": "If migraines are severe or frequent"
+  }
+}

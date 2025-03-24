@@ -1,0 +1,16 @@
+{
+  "acetaminophen": {
+    "uses": [
+      "pain relief",
+      "fever reduction"
+    ],
+    "dosage": "325-650mg every 4-6 hours",
+    "warnings": [
+      "Don't exceed 4000mg per day",
+      "Avoid alcohol"
+    ],
+    "interactions": [
+      "liver medications"
+    ]
+  }
+}

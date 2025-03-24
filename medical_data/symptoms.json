@@ -1,0 +1,15 @@
+{
+  "chest_pain": {
+    "description": "Pain or discomfort in the chest area",
+    "associated_conditions": [
+      "heart attack",
+      "angina",
+      "anxiety"
+    ],
+    "severity_indicators": [
+      "spreading to arm/jaw",
+      "difficulty breathing"
+    ],
+    "immediate_action": "Seek emergency care if severe or with other symptoms"
+  }
+}
