@@ -1,0 +1,66 @@
+2025-03-22 03:44:32,539 - accelerate.utils.modeling - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-22 03:44:45,966 - accelerate.big_modeling - WARNING - Some parameters are on the meta device because they were offloaded to the cpu.
+2025-03-22 03:44:46,832 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda
+2025-03-22 03:44:46,832 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-22 03:44:51,467 - MedicalAI - INFO - Medical analysis service initialized
+2025-03-22 03:45:10,541 - MedicalAI - INFO - Processing new transcript:  Hello, I'm a 16 year old Asian male presenting wi...
+2025-03-22 03:45:10,649 - MedicalAI - INFO - Found 3 potentially relevant conditions
+2025-03-22 03:45:10,650 - MedicalAI - INFO - Relevant condition 1: Cough headaches (score: 0.56)
+2025-03-22 03:45:10,650 - MedicalAI - INFO - Relevant condition 2: Cough headaches (score: 0.56)
+2025-03-22 03:45:10,650 - MedicalAI - INFO - Relevant condition 3: Common cold (score: 0.50)
+2025-03-22 03:45:10,650 - MedicalAI - INFO - Generating medical summary...
+2025-03-22 03:46:15,500 - MedicalAI - INFO - Generated summary: The common cold is caused by the common cold virus, which is a virus in the common cold. Most common...
+2025-03-22 03:46:15,501 - MedicalAI - INFO - Summary delivered to UI
+2025-03-22 03:46:15,513 - MedicalAI - INFO - Processing new transcript:  also have slight diarrhea....
+2025-03-22 03:46:15,522 - MedicalAI - INFO - Found 3 potentially relevant conditions
+2025-03-22 03:46:15,522 - MedicalAI - INFO - Relevant condition 1: Cough headaches (score: 0.52)
+2025-03-22 03:46:15,522 - MedicalAI - INFO - Relevant condition 2: Cough headaches (score: 0.52)
+2025-03-22 03:46:15,522 - MedicalAI - INFO - Relevant condition 3: Meningitis (score: 0.49)
+2025-03-22 03:46:15,523 - MedicalAI - INFO - Generating medical summary...
+2025-03-22 03:47:13,347 - MedicalAI - INFO - Generated summary: Symptoms of a serious disease in which there is a symptom of the disease that causes a symptom. The ...
+2025-03-22 03:47:13,353 - MedicalAI - INFO - Summary delivered to UI
+2025-03-22 03:51:12,389 - accelerate.utils.modeling - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-22 03:51:26,290 - accelerate.big_modeling - WARNING - Some parameters are on the meta device because they were offloaded to the cpu.
+2025-03-22 03:51:26,919 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda
+2025-03-22 03:51:26,919 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-22 03:51:31,108 - MedicalAI - INFO - Medical analysis service initialized
+2025-03-22 03:51:41,845 - MedicalAI - INFO - Processing new transcript:  Hello, I am a 16 year old male presenting with se...
+2025-03-22 03:51:41,958 - MedicalAI - INFO - Relevant condition 1: Migraine (score: 0.46)
+2025-03-22 03:51:41,958 - MedicalAI - INFO - Relevant condition 2: Migraine (score: 0.46)
+2025-03-22 03:51:41,958 - MedicalAI - INFO - Relevant condition 3: Encephalitis (score: 0.45)
+2025-03-22 03:51:41,958 - MedicalAI - INFO - Generating medical summary...
+2025-03-22 03:52:49,128 - MedicalAI - INFO - Generated summary: The most common cause of migraines is a viral infection. Some infections, such as pneumonia or menin...
+2025-03-22 03:52:49,128 - MedicalAI - INFO - Summary delivered to UI
+2025-03-22 11:08:24,205 - accelerate.utils.modeling - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-22 11:08:40,420 - accelerate.big_modeling - WARNING - Some parameters are on the meta device because they were offloaded to the cpu.
+2025-03-22 11:08:41,291 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda
+2025-03-22 11:08:41,291 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-22 11:08:47,734 - MedicalAI - INFO - Medical analysis service initialized
+2025-03-22 11:08:47,735 - MedicalAI - INFO - Processing new transcript:  Thank you....
+2025-03-22 11:08:47,799 - MedicalAI - INFO - Generating medical summary...
+2025-03-22 11:09:51,953 - accelerate.utils.modeling - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-22 11:10:08,507 - accelerate.big_modeling - WARNING - Some parameters are on the meta device because they were offloaded to the cpu.
+2025-03-22 11:10:09,082 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda
+2025-03-22 11:10:09,082 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-22 11:10:14,689 - MedicalAI - INFO - Medical analysis service initialized
+2025-03-22 11:10:15,144 - MedicalAI - INFO - Processing new transcript:  Yeah, yeah....
+2025-03-22 11:10:15,256 - MedicalAI - INFO - Generating medical summary...
+2025-03-22 11:10:41,117 - accelerate.utils.modeling - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-22 11:10:54,100 - accelerate.big_modeling - WARNING - Some parameters are on the meta device because they were offloaded to the cpu.
+2025-03-22 11:10:54,711 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda
+2025-03-22 11:10:54,711 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-22 11:10:58,989 - MedicalAI - INFO - Medical analysis service initialized
+2025-03-22 11:11:07,167 - MedicalAI - INFO - Processing new transcript:  I'm a 47 year old male presenting with broken rib...
+2025-03-22 11:11:07,291 - MedicalAI - INFO - Relevant condition 1: Broken ribs (score: 0.49)
+2025-03-22 11:11:07,291 - MedicalAI - INFO - Relevant condition 2: Broken ribs (score: 0.49)
+2025-03-22 11:11:07,292 - MedicalAI - INFO - Relevant condition 3: Broken ribs (score: 0.49)
+2025-03-22 11:11:07,292 - MedicalAI - INFO - Generating medical summary...
+2025-03-22 11:11:52,521 - MedicalAI - INFO - Generated summary: Symptoms of a broken rib include pain in the upper abdomen, swelling of the ribs and back, tendernes...
+2025-03-22 11:11:52,522 - MedicalAI - INFO - Summary delivered to UI
+2025-03-22 11:11:52,528 - MedicalAI - INFO - Processing new transcript:  Difficulty in breathing. Difficulty in breathing....
+2025-03-22 11:11:52,537 - MedicalAI - INFO - Relevant condition 1: Pneumothorax (score: 0.55)
+2025-03-22 11:11:52,538 - MedicalAI - INFO - Relevant condition 2: Pneumothorax (score: 0.55)
+2025-03-22 11:11:52,538 - MedicalAI - INFO - Relevant condition 3: Pneumothorax (score: 0.55)
+2025-03-22 11:11:52,538 - MedicalAI - INFO - Generating medical summary...
+2025-03-22 11:12:35,322 - MedicalAI - INFO - Generated summary: A pneumothorax is a complete lung collapse or the collapse of only a portion of the lung. It can be ...
+2025-03-22 11:12:35,322 - MedicalAI - INFO - Summary delivered to UI
